@@ -2,7 +2,7 @@ import random
 
 print ("Guess the number !")
 
-number = random.randint(1, 10)
+number = random.randint(1, 20)
 
 guess = None
  
